@@ -1,0 +1,30 @@
+.game{
+    width: 255px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: auto;
+    color: white;
+    font-size: xx-large;
+    font-weight: 500;
+}
+.title{
+    text-align: center;
+    padding: 5px 0;
+    margin: 5px 0;
+    background: aqua;
+    font-size: xx-large;
+}
+span{
+    color: black
+}
+.square{
+    width: 80px;
+    height: 80px;
+    background-color: aqua;
+    float: left;
+    margin: 2px;
+    font-size: 50px;
+}
+body{
+    background-color:indigo;
+}
